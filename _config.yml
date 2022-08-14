@@ -50,8 +50,7 @@ linkedin_username: pooria-esmaeili
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm machine learning engineer with over 4 years of experience in implementing and analyzing machine learning and deep learning models. I have a solid understanding of mathematics and statistics, and I am interested in the applications and challenges of machine learning in real-world problems.
-  
+  I am a machine learning engineer/data scientist with extensive experience in developing and deploying various AI methods. I have a strong foundation in mathematics and statistics, and I am curious about the applications of machine learning in real-world problems.
   
 #  You can check out my full resume <a href="https://drive.google.com/file/d/1Bt6mezC_v-bOkoWQSdPbUXGefUv_8QkD/view?usp=sharing"> <mark>here</mark> </a>.
 content:
@@ -81,8 +80,8 @@ content:
         title: Machine Learning Researcher and Teaching Assistant
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: York University
-        caption: September 2019 - Present
+        sub_title: University of Guelph
+        caption: January 2021 - June 2022
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -94,7 +93,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: University of Tehran
-        caption: June 2018 - May 2019
+        caption: September 2017 - March 2019
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -113,7 +112,7 @@ content:
       - layout: left
         title: University of Tehran
         caption: 2014 - 2019
-        sub_title: BSc Electrical Engineering, Minor Computer Engineering
+        sub_title: BSc Electrical Engineering
         description: | # this will include new lines to allow paragraphs
           I started my undergrad studies in electrical engineering, which helped me to strenghten my math and engineering foundations. Then, to become more familiar with machine learning, I took two graduate courses and a minor in computer engineering. In my BSc research, I used auto encoders to predict users' locations in an indoor localization problem.
 
@@ -121,12 +120,12 @@ content:
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in AI and science, I do photography wheneveer I get a chance (checkout my instagram). I love exploring the nature and hiking, as an outdoor kind of person :)
+ # - title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    Alongside my interests in AI and science, I do photography wheneveer I get a chance (checkout my instagram). I love exploring the nature and hiking, as an outdoor kind of person :)
 
-      ![freedom](images/insta.jpeg "freedom")
+  #    ![freedom](images/insta.jpeg "freedom")
 
 # Footer
 footer_show_references: true
