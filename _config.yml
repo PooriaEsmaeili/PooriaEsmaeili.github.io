@@ -18,7 +18,6 @@ darkmode: false
 # twitter_username: facespics
 
 github_username:  PooriaEsmaeili
-#instagram_username: mr.3aeed
 linkedin_username: pooria-esmaeili
 
 # stackoverflow_username: "00000001"
@@ -48,7 +47,7 @@ linkedin_username: pooria-esmaeili
 
 # About Section
 # about_title: About Me
-about_profile_image: images/pooria.jpeg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am a machine learning engineer/data scientist with extensive experience in developing and deploying various AI methods. I have a strong foundation in mathematics and statistics, and I am curious about the applications of machine learning in real-world problems.
   
@@ -96,7 +95,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          Tapsi is a mobility service provider in Iran. I was a part of the data team in the commercial department. Our role was to Identify trends and capture insights of customers’ trips in each season using unsupervised and clustering algorithms to offer competitive fares (increased profitability by 3%). Another duty of mine was retrieving data for the weekly trips and publishing interactive dashboards to provide actionable insights using SQL and Power BI.
+          Tapsi is a mobility service provider in Iran. I was a part of the data team in the commercial department. Our role was to identify trends and capture insights of customers’ trips in each season using unsupervised and clustering algorithms to offer competitive fares (increased profitability by 3%). Another duty of mine was retrieving data for the weekly trips and publishing interactive dashboards to provide actionable insights using SQL and Power BI.
 
       - layout: left
         title: Undergraduate Research
@@ -107,8 +106,7 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          I implemented an RL Agent which regulates cache voltage to maintain a suitable trade-off between power and quality in approximate applications.
-
+          I was focused on fault management in approximate applications, namely the implementation of an RL agent which regulates cache voltage to maintain a suitable trade-off between power and quality using gem5 and McPAT. This agent can be trained using Q-Learning algorithm to decrease power while it monitors the quality of results and does not let it drop below a specific threshold. 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -117,7 +115,7 @@ content:
         caption: 2021 - 2022
         sub_title: MSc in Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          During my master’s, I investigated applications of machine learning in FPGA CAD flow. To broaden my understanding of machine learning and data science, I took several courses including Deep Learning, Reinforcement Learning, and Advance Soft computing. In my thesis, I applied deep reinforcement learning techniques to the FPGA placement problem.
+          During my master’s, I investigated applications of machine learning in FPGA CAD flow. To broaden my understanding of machine learning and data science, I took several courses including Deep Learning, Reinforcement Learning, and Advance Soft Computing. In my thesis, I applied deep reinforcement learning techniques to the FPGA placement problem.
       - layout: left
         title: University of Tehran
         caption: 2014 - 2019
@@ -125,16 +123,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started my undergrad studies in electrical engineering. Most of the courses I had to undertake were on theoretical mathematics and statistics, which helped me to form a strong foundation in those areas. Later, as I was fascinated by data-driven algorithms and their applications, I took Machine Learning and Machine Vision courses. In my BSc research, I investigated the application of machine learning algorithms in hardware systems.
 
-#         =
-#        quote: >
-#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and #academic pedigree as a leading university in not just the US but also the world.
-
- # - title: A Little More About Me
-  #  layout: text
-  #  content: | # this will include new lines to allow paragraphs
-  #    Alongside my interests in AI and science, I do photography wheneveer I get a chance (checkout my instagram). I love exploring the nature and hiking, as an outdoor kind of person :)
-
-  #    ![freedom](images/insta.jpeg "freedom")
 
 # Footer
 footer_show_references: true
