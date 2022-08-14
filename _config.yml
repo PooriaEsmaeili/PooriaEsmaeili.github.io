@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Saeed Khodaparast
+name: Pooria Esmaeili
 title: Machine Learning Engineer, Data Scientist
-email: saeed.khodap@gmail.com
+email: pooriaesmaeili96@gmail.com
 #website: www.github.com/
 
 # Dark Mode (true/false/never)
@@ -17,9 +17,9 @@ darkmode: false
 # Social links
 # twitter_username: facespics
 
-github_username:  mr3aeed
-instagram_username: mr.3aeed
-linkedin_username: saeed-khodaparast
+github_username:  PooriaEsmaeili
+#instagram_username: mr.3aeed
+linkedin_username: pooria-esmaeili
 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
