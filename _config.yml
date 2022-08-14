@@ -48,7 +48,7 @@ linkedin_username: pooria-esmaeili
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpeg
+about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   I am a machine learning engineer/data scientist with extensive experience in developing and deploying various AI methods. I have a strong foundation in mathematics and statistics, and I am curious about the applications of machine learning in real-world problems.
   
@@ -77,7 +77,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Machine Learning Researcher and Teaching Assistant
+        title: Machine Learning Researcher 
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: University of Guelph
@@ -85,11 +85,21 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          In my thesis, I designed an obstacle-constrained environment using Python to simulate the problem of sensor data collection by unmanned aerial vehicles (UAVs) in the IoT networks. 
-          I developed deep reinforcement learning models using Tensorflow to enable the UAV agents to fly safely towards the sensors and collection their data, leading to two publications and achieving 7% reduction in sensors energy consumption comparing to fixed-power baseline.
-          I was also a teaching assistant in multiple related courses: Introduction to Computer Science and Programming, Design and Analysis of Algorithms, and Software Design.
+          In my thesis, I integrated a Reinforcement Learning framework into the FPGA placement flow to dynamically choose the best optimization strategy during the detailed placement. I developed several reinforcement learning models, such as Tabular Q-Learning, Deep Q-Learning, and Advantage Actor-Critic models using TensorFlow, to capture different characteristics of each circuit placement and use them in the decision-making process. The proposed framework was able to reduce the runtime by 50% while solution quality is preserved.
+      
       - layout: left
-        title: Undergraduate Research and Teaching Assistant
+        title: Data Scientist
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Tapsi
+        caption: January 2019 - June 2020
+#        quote: >
+#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Tapsi is a mobility service provider in Iran. I was a part of the data team in the commercial department. Our role was to Identify trends and capture insights of customers’ trips in each season using unsupervised and clustering algorithms to offer competitive fares (increased profitability by 3%). Another duty of mine was retrieving data for the weekly trips and publishing interactive dashboards to provide actionable insights using SQL and Power BI.
+
+      - layout: left
+        title: Undergraduate Research
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: University of Tehran
@@ -97,24 +107,23 @@ content:
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          I developed a framework for indoor localization of WiFi users using Auto-Encoders with mean localization error of 0.9 meter. As a teaching assistant, I ran tutorial classes on probability and statistics for the graduate course Pattern Recognition.
+          I implemented an RL Agent which regulates cache voltage to maintain a suitable trade-off between power and quality in approximate applications.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: York University
-        caption: 2019 - 2021
+        title: University of Guelph
+        caption: 2021 - 2022
         sub_title: MSc in Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          In my master's program, I focused on machine learning area and took courses to deepen my understanding in machine learning and data science. In my thesis, I applied deep reinforcement learning to the problem of data collection by UAVs in the IoT networks.
-          
+          In my master's program, I focused on machine learning area and took courses to deepen my understanding in machine learning and data science. In my thesis, I applied deep reinforcement learning to the FPGA placement problem.
       - layout: left
         title: University of Tehran
         caption: 2014 - 2019
         sub_title: BSc Electrical Engineering
         description: | # this will include new lines to allow paragraphs
-          I started my undergrad studies in electrical engineering, which helped me to strenghten my math and engineering foundations. Then, to become more familiar with machine learning, I took two graduate courses and a minor in computer engineering. In my BSc research, I used auto encoders to predict users' locations in an indoor localization problem.
+          I started my undergrad studies in electrical engineering, which helped me to strenghten my math and engineering foundations. Then, to become more familiar with machine learning, I took Deep Learning and Machine Vision courses. In my BSc research, I investigated application of machine learning algorithms in hardware systems.
 
 #         =
 #        quote: >
