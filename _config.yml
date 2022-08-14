@@ -48,7 +48,7 @@ linkedin_username: pooria-esmaeili
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.JPG
+about_profile_image: images/pooria.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am a machine learning engineer/data scientist with extensive experience in developing and deploying various AI methods. I have a strong foundation in mathematics and statistics, and I am curious about the applications of machine learning in real-world problems.
   
@@ -92,7 +92,7 @@ content:
         # link: boringcompany.com
         # link_text: boringcompany.com
         sub_title: Tapsi
-        caption: January 2019 - June 2020
+        caption: April 2019 - December 2020
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -117,13 +117,13 @@ content:
         caption: 2021 - 2022
         sub_title: MSc in Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          In my master's program, I focused on machine learning area and took courses to deepen my understanding in machine learning and data science. In my thesis, I applied deep reinforcement learning to the FPGA placement problem.
+          During my master’s, I investigated applications of machine learning in FPGA CAD flow. To broaden my understanding of machine learning and data science, I took several courses including Deep Learning, Reinforcement Learning, and Advance Soft computing. In my thesis, I applied deep reinforcement learning techniques to the FPGA placement problem.
       - layout: left
         title: University of Tehran
         caption: 2014 - 2019
         sub_title: BSc Electrical Engineering
         description: | # this will include new lines to allow paragraphs
-          I started my undergrad studies in electrical engineering, which helped me to strenghten my math and engineering foundations. Then, to become more familiar with machine learning, I took Deep Learning and Machine Vision courses. In my BSc research, I investigated application of machine learning algorithms in hardware systems.
+          I started my undergrad studies in electrical engineering. Most of the courses I had to undertake were on theoretical mathematics and statistics, which helped me to form a strong foundation in those areas. Later, as I was fascinated by data-driven algorithms and their applications, I took Machine Learning and Machine Vision courses. In my BSc research, I investigated the application of machine learning algorithms in hardware systems.
 
 #         =
 #        quote: >
