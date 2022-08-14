@@ -47,7 +47,7 @@ linkedin_username: pooria-esmaeili
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpeg
+about_profile_image: images/pooria.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am a machine learning engineer/data scientist with extensive experience in developing and deploying various AI methods. I have a strong foundation in mathematics and statistics, and I am curious about the applications of machine learning in real-world problems.
   
