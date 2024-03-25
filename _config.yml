@@ -86,16 +86,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           In my thesis, I integrated a Reinforcement Learning framework into the FPGA placement flow to dynamically choose the best optimization strategy during the detailed placement. I developed several reinforcement learning models, such as Tabular Q-Learning, Deep Q-Learning, and Advantage Actor-Critic models using TensorFlow, to capture different characteristics of each circuit placement and use them in the decision-making process. The proposed framework was able to reduce the runtime by 50% while solution quality is preserved.
       
-      - layout: left
-        title: Data Scientist
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Tapsi
-        caption: April 2019 - December 2020
+#      - layout: left
+#        title: Data Scientist
+#        # link: boringcompany.com
+#        # link_text: boringcompany.com
+#        sub_title: Tapsi
+#        caption: April 2019 - December 2020
 #        quote: >
 #          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          Tapsi is a mobility service provider in Iran. I was a part of the data team in the commercial department. Our role was to identify trends and capture insights of customers’ trips in each season using unsupervised and clustering algorithms to offer competitive fares (increased profitability by 3%). Another duty of mine was retrieving data for the weekly trips and publishing interactive dashboards to provide actionable insights using SQL and Power BI.
+#        description: | # this will include new lines to allow paragraphs
+#          Tapsi is a mobility service provider in Iran. I was a part of the data team in the commercial department. Our role was to identify trends and capture insights of customers’ trips in each season using unsupervised and clustering algorithms to offer competitive fares (increased profitability by 3%). Another duty of mine was retrieving data for the weekly trips and publishing interactive dashboards to provide actionable insights using SQL and Power BI.
 
       - layout: left
         title: Undergraduate Research
